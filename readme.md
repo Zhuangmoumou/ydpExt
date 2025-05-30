@@ -1,11 +1,9 @@
 # ydpExt
 在Penmods正式推出扩展程序功能前，这是一个在ydp上使用自定义扩展程序的可行解决方案。
-它的运行效果可以前往[位于Penmods社区的预发行贴](https://www.google.com/search?q=404)查看。  
   
   **适配 penmods 1.3.x 的版本: v1.0.1**  
   **适配 penmods 1.2.x 的版本: v1.0.0**  
   
-  **不再更新，Archived.**
   
 ## 上手本项目
 ### 初始化项目
